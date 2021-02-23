@@ -1,7 +1,15 @@
 Este es un ejercicio con Git
 
+
 *****
 
 Este cambio lo hago ahora desde la rama master
 
 *****
+
+***********
+
+Esta modificación la hago con branch1
+
+***********
+
